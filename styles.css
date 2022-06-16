@@ -83,7 +83,8 @@ img {
 
 #activities-wrapper {
     display: flex;
-    margin: 10px 0;
+    margin: 10px auto;
+    max-width: 750px;
 }
 
 #guide-wrapper {
