@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+This project was created as part of the Web Dev Basics module in Scrimba's Frontend Career Path program. HTML and CSS were utilized to make this homepage for my hometown.
+
+Tools used include Flexbox, the :hover selector, wrappers, and text shadow.
 
 ## Supporting Scrimba
 
